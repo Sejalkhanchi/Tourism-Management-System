@@ -76,7 +76,6 @@ Welcome to the Tourism Management System! This system aims to facilitate travel 
 
 - Aimen Zahra
 - Sejal
-- Sejal
   
 ## Support
 
